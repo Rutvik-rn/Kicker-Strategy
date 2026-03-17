@@ -1,1 +1,1 @@
-# Kicker-Statergy
+# Kicker-Strategy
