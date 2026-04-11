@@ -1,3 +1,5 @@
 - checking if lag sequential analysis can be implemented 
 - feature engineering
 - analyzing Dianas best games in detail
+- analyze contacts AFTER unsuccessful shots 
+-> is the timestamp the same? If not, the ball hit the wall. If it is, another figure stopped the ball -> which one? -> defense strategy
