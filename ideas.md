@@ -1,3 +1,0 @@
-- checking if lag sequential analysis can be implemented 
-- feature engineering
-- analyzing Dianas best games in detail
