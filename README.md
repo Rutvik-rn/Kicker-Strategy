@@ -19,6 +19,8 @@
 | Magnus | Backward Passer |
 | Hans | Hesitant Underdog |
 
+### Project Structure: 
+
 kicker-analysis/
 ├── results/                    # original matchup records as JSON
 │   └── data-cleaned/           # processed data used in analysis
