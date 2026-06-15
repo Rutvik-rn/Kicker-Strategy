@@ -20,12 +20,12 @@
 | Hans | Hesitant Underdog |
 
 kicker-analysis/
-├── results/                # original matchup records as json file 
-│   └── data-cleaned/         # processed data used in data analysis
+├── results/                    # original matchup records as JSON
+│   └── data-cleaned/           # processed data used in analysis
 ├── notebooks/
-│   ├── 01_experiments.ipynb     # Exploratory Data Analysis (Consists of all tests/experiments performed on the data)
-│   ├── 02_results.ipynb          # Hypothesis testing and Player Traits Definition. Eg: t-tests, Z-tests
-├── Player_traits.md/              # All player traits information from experiments and hypothesis testing phase
+│   ├── 01_experiments.ipynb    # EDA — all tests/experiments on the data
+│   └── 02_results.ipynb        # hypothesis testing & player trait definitions
+├── Player_traits.md            # player traits from experiments & hypothesis phase
 ├── requirements.txt
 └── README.md
 
