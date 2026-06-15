@@ -13,6 +13,7 @@
 
 ## Key Findings:
 | Players | Behavioural Traits |
+|---------|--------------------|
 | :Diana: | :Fast and Dominant - Near Sided Striker:|
 | :Simon: | :Long Shooter:     |
 | :Olga:  | :Tiki-Taka Expert: |
@@ -21,7 +22,9 @@
 | :Hans: | :Hesitant Underdog: |
 
 ## Collaborators:
-[Me](Rutvik Rahul Nate) :raising_hand:
+[Rutvik Nate](https://github.com/Rutvik-rn) :raising_hand:
 [Cosima Baumeier](https://github.com/cosimab) :raising_hand:
 [Natesh Darkhan](https://github.com/ndarkhan17) :raising_hand:
 [Harshita Adiedela](https://github.com/harshithaa7) :raising_hand:
+
+Special Thanks to SingularIT for allowing us to collaborate.:smiley:
