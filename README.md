@@ -19,6 +19,16 @@
 | Magnus | Backward Passer |
 | Hans | Hesitant Underdog |
 
+kicker-analysis/
+├── results/                # original matchup records as json file 
+│   └── data-cleaned/         # processed data used in data analysis
+├── notebooks/
+│   ├── 01_experiments.ipynb     # Exploratory Data Analysis (Consists of all tests/experiments performed on the data)
+│   ├── 02_results.ipynb          # Hypothesis testing and Player Traits Definition. Eg: t-tests, Z-tests
+├── Player_traits.md/              # All player traits information from experiments and hypothesis testing phase
+├── requirements.txt
+└── README.md
+
 ## Collaborators:
 [Rutvik Nate](https://github.com/Rutvik-rn) :raising_hand:
 [Cosima Baumeier](https://github.com/cosimab) :raising_hand:
