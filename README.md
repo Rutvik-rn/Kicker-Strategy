@@ -21,6 +21,7 @@
 
 ### Project Structure: 
 
+```
 kicker-analysis/
 ├── results/                    # original matchup records as JSON
 │   └── data-cleaned/           # processed data used in analysis
@@ -30,6 +31,7 @@ kicker-analysis/
 ├── Player_traits.md            # player traits from experiments & hypothesis phase
 ├── requirements.txt
 └── README.md
+```
 
 ## Collaborators:
 [Rutvik Nate](https://github.com/Rutvik-rn) :raising_hand:
