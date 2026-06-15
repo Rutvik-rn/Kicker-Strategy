@@ -4,22 +4,20 @@
 ![Hypothesis-Testing](https://img.shields.io/badge/Hypothesis-testing-green)
 ![Github](https://img.shields.io/badge/github-repo-blue?logo=github)
 
-
-
 ## Summary:
 >This project involves statistical analysis of a simulated foosball matchup between 6 players - Diana, Hans, Simon, Olga, Magnus & Tanja.
 
-## Methodologies Applied: - Exploratory Data Analysis, Hypothesis Testing.
+## Methodologies Applied: - Exploratory Data Analysis, Hypothesis Testing
 
 ## Key Findings:
 | Players | Behavioural Traits |
 |---------|--------------------|
-| :Diana: | :Fast and Dominant - Near Sided Striker:|
-| :Simon: | :Long Shooter:     |
-| :Olga:  | :Tiki-Taka Expert: |
-| :Tanja: | :Average John Doe: | 
-| :Magnus: | :Backward Passer: |
-| :Hans: | :Hesitant Underdog: |
+| Diana | Fast and Dominant - Near Sided Striker |
+| Simon | Long Shooter    |
+| Olga  | Tiki-Taka Expert |
+| Tanja | Average John Doe | 
+| Magnus | Backward Passer |
+| Hans | Hesitant Underdog |
 
 ## Collaborators:
 [Rutvik Nate](https://github.com/Rutvik-rn) :raising_hand:
@@ -27,4 +25,4 @@
 [Natesh Darkhan](https://github.com/ndarkhan17) :raising_hand:
 [Harshita Adiedela](https://github.com/harshithaa7) :raising_hand:
 
-Special Thanks to SingularIT for allowing us to collaborate.:smiley:
+Special Thanks to SingularIT :blush: for allowing us to collaborate on this exciting project.
